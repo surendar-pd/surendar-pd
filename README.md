@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @surendar-pd
-- 👀 I’m interested in react js for web dev
-- 🌱 I’m currently learning react
+- 👋 Hi, I’m Surendar
+- 👀 I’m interested in react js for web development and web apps
+- 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on react apps
-- 📫 How to reach me IG @surendar_pd
+- 📫 Reach me on IG @surendar_pd
 
 <!---
 surendar-pd/surendar-pd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

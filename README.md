@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I'm Surendar PD, a passionate frontend developer who has been working on several tech stacks to build websites and web apps that standout with better UI?UX<br>
+Hey there, I'm Surendar PD, a passionate frontend developer who has been working on several tech stacks to build websites and web apps that standout with better UI/UX<br>
 
 
 ## 🌐 Socials:
